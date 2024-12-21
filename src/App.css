@@ -1,0 +1,12 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+
+}
+.heading {
+    max-width: 500px;
+    color: black;
+    font-size: 3.5rem;
+    font-weight: bold;
+}
